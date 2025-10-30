@@ -22,9 +22,7 @@ Users can search for any city and view the current weather including temperature
 
 ## 🔹 Screenshots
 
-Weather App Screenshot 
-(9weatherApp/screenshots/weatherApp.png)
-
+![image alt](https://github.com/sandaruwan0917/weather-forecast-app/blob/4c97601a9eed29cd4d4547ada2c2d2274a1e7285/Weather_App.png)
 ---
 
 ## 🔹 Technologies Used
