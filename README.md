@@ -23,7 +23,7 @@ Users can search for any city and view the current weather including temperature
 ## 🔹 Screenshots
 
 Weather App Screenshot 
-`/weatherApp/screenshots/weatherApp.png`
+(9weatherApp/screenshots/weatherApp.png)
 
 ---
 
